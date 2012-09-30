@@ -15,8 +15,10 @@ you may test it against the spec.
 You are allowed to fix errors once. But only once.
 
 After completing this exercise, I would like you to answer the following
-question: **What was different in your coding process when you knew you
-couldn't test your code until you thought you were don?**
+questions:
+
+* **What was different in your coding process when you knew you couldn't test your code until you thought you were done?**
+* **What do you think about your final solution?**
 
 ## How to test?
 
