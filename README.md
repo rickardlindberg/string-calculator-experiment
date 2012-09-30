@@ -4,7 +4,7 @@ Your task is to implement a version of the string calculator.
 
 The string calculator takes as input string containing an expression and
 returns a number. The full specification for this version can be found in
-specs.py.
+`specs.py`.
 
 You may implement it in any language.
 
