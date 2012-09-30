@@ -1,4 +1,4 @@
-This is an experiment.
+## The experiment
 
 Your task is to implement a version of the string calculator.
 
@@ -13,6 +13,12 @@ you have to write the whole implementation, and when you think you are done,
 you may test it against the spec.
 
 You are allowed to fix errors once. But only once.
+
+After completing this exercise, I would like you to answer the following
+question: **What was different in your coding process when you knew you
+couldn't test your code until you thought you were don?**
+
+## How to test?
 
 To be able to automatically test your program against the spec, it must read
 the string expression from stdin and write the number to stdout. The number
